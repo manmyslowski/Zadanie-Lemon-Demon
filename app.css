@@ -1,0 +1,33 @@
+.video {
+  border: 1px solid grey;
+  /*ramka o szerokosci pixela, pogrubiona, szara*/
+  object-fit: cover;
+  /*rozciagniecie obiektu video na cala szerokosc ramki*/
+  height: 250px;
+  /*wysokosc obiektu video*/
+}
+
+.buttons {
+  border: 1px solid lightpink;
+  /*ramka o grubosci pixela, pogrubiona, jasno-rozowa*/
+}
+
+.button {
+  width: 50%;
+  /*dlugosc 50% obiektu z listy*/
+  height: 50px;
+  /*wysokosc 50px*/
+}
+
+.main-input {
+  width: 100%;
+  /*szerokosc 100%*/
+  height: 50px;
+  /*wysokosc 50px*/
+  border: 1px solid black;
+  /*ramka o grubosci 1 pixela, pogrubiona, czarna*/
+  font-size: 25px;
+  /*rozmiar czcionki wpisywanych wartosci w wyszukiwarke*/
+  text-align: center;
+  /*wycentrowanie czcionki wpisywanych wartosci w wyszukiwarke*/
+}
